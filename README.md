@@ -18,3 +18,5 @@ push<br>
 - publish, backup and share<br>
 log<br>
 - Records or journals of all the commits
+
+##newBranch
